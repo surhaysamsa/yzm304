@@ -13,6 +13,7 @@
 - [Tartışma (Discussion)](#tartışma-discussion)
   - [Model Seçimi Kriterleri](#model-seçimi-kriterleri)
   - [Scikit-learn Performansı](#scikit-learn-performansı)
+- [Kaynaklar (References)](#kaynaklar-references)
 
 ---
 
@@ -93,5 +94,20 @@ Bu projede, derin öğrenme tabanlı modeller geliştirilmiştir. Temel amaç, *
 
 ### Scikit-learn Performansı
 Scikit-learn'in MLPClassifier'ı, varsayılan olarak çeşitli optimizasyon yöntemleri (momentum, adaptif öğrenme oranı vb.) kullanabilir. Bu sayede daha az iterasyonla yüksek başarıya ulaşmak mümkündür.
+
+---
+
+## Kaynaklar (References)
+1. Kaggle BankNote_Authentication Dataset  
+   [https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data](https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data)
+
+2. Scikit-learn Documentation: MLPClassifier  
+   [https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
+
+3. PyTorch Documentation  
+   [https://pytorch.org/docs/stable/index.html](https://pytorch.org/docs/stable/index.html)
+
+4. NumPy Documentation  
+   [https://numpy.org/doc/](https://numpy.org/doc/)
 
 ---
